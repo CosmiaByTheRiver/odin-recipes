@@ -7,3 +7,9 @@ h1 {
     font-size: 55px;
     text-align: center;
 }
+
+p,
+ul,
+li {
+    font-size: 25px;
+}
