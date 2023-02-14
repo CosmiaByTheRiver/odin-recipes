@@ -9,6 +9,9 @@ h1 {
     text-align: center;
 }
 
+a,
 li {
     font-size: 30px;
+    color: rgb(244, 92, 118);
+    font-weight: bold;
 }
