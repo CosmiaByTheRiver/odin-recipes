@@ -9,16 +9,10 @@ h1 {
     text-align: center;
 }
 
-p,
-ol,
-li {
+.font-twenty-five {
     font-size: 25px;
 }
 
 h2 {
     font-size: 40px;
-}
-
-h3 {
-    font-size: 25px;
 }
