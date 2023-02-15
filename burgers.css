@@ -9,9 +9,7 @@ h1 {
     text-align: center;
 }
 
-p,
-ul,
-li {
+.font-twenty-five {
     font-size: 25px;
 }
 
